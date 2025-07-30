@@ -22,7 +22,7 @@ This Jupyter notebook provides a data analysis portion of the project. The noteb
 * Results and visualizations
 * Commented code explanations
 
-[View notebook on GitHub](./notebook/DesignProject.ipynb)
+[View notebook in GitHub](./notebook/DesignProject.ipynb)
 ## Group Info
 Project was created by Daniel Selvidge and Mia Guzman
 ## Instructor Info
