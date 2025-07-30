@@ -1,5 +1,5 @@
 ## Closest Pair Project CSC 2400
-> As part of a project for our CSC 2400, this project is meant to reinforce
+> As part of a project for our CSC 2400 class, this project is meant to reinforce
 > our understanding of emperical analysis and application on real world algorithms.
 > 
 > Using KD Trees and Divide-and-Conquer methods, this project aims to empirically analyze both methods
