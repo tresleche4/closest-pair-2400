@@ -5,7 +5,7 @@
 * PowerPoint Presentation
 * Jupyter Notebook Analysis
 ## Report
- The report provides a detailed outline of the project, which includes:
+ The report provides an outline of the project, which includes:
 * Problem Overview and Methods
 * Research Questions
 * Experiment Description
